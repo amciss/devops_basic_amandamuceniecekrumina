@@ -1,1 +1,2 @@
-# devops_basic_amandamuceniecekrumina
+# DevOps repozitorijs
+<Amanda Muceniece Krūmiņa> DevOps repozitorijs pamati iesācējiem
